@@ -16,3 +16,8 @@
 #     artifact-name: noir88rgb_left_with_logging
 #
 ---
+include:
+  - board: nice_nano_v2
+    shield: noir88rgb_left
+  - board: nice_nano_v2
+    shield: noir88rgb_right
