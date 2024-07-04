@@ -21,3 +21,5 @@ include:
     shield: noir_left
   - board: nrfmicro_13
     shield: noir_right
+  - board: nrfmicro_13
+    shield: settings_reset
